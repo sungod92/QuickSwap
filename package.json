@@ -1,0 +1,18 @@
+{
+  "name": "snipingbot",
+  "version": "1.0.0",
+  "description": "Sniping Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsh Balot",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethers": "^5.5.1",
+    "node-fetch": "^3.1.0",
+    "web3": "^1.6.1",
+    "winston": "^3.3.3"
+  }
+}
